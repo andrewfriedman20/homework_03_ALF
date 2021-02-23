@@ -18,7 +18,7 @@ The user can once again click the generate password button, enter a new set of p
 
 The password generator url is 
 
-The github Repo url is 
+The github Repo url is (https://andrewfriedman20.github.io/homework_03_ALF/)
 
 ![Screenshot of ALF Password Generator](https://github.com/andrewfriedman20/homework_03_ALF/blob/main/Screen_ALF_PWG.jpg)
 
