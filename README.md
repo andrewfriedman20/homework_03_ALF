@@ -4,6 +4,5 @@
 
 
 
-
-[The page displays a screen grab of the password generator website by ALF](./homework_03_ALF/Screen_ALF_PWG.jpg)
+(https://github.com/andrewfriedman20/homework_03_ALF/blob/main/Screen_ALF_PWG.jpg)
 
