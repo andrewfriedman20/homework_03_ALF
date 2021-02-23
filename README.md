@@ -16,9 +16,9 @@ Finally, the resulting password is displayed on the screen in the "password box.
 
 The user can once again click the generate password button, enter a new set of preferences in response to the prompt and window confirms, and be presented with a freshly generated password with these new preferences. 
 
-The password generator url is 
+The password generator url is (https://andrewfriedman20.github.io/homework_03_ALF/)
 
-The github Repo url is (https://andrewfriedman20.github.io/homework_03_ALF/)
+The github Repo url is (https://github.com/andrewfriedman20/homework_03_ALF)
 
 ![Screenshot of ALF Password Generator](https://github.com/andrewfriedman20/homework_03_ALF/blob/main/Screen_ALF_PWG.jpg)
 
