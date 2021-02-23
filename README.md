@@ -3,5 +3,7 @@
 
 
 
-(.homework_03_ALF/Screen_ALF_PWG.jpg)
+
+
+[The page displays a screen grab of the password generator website by ALF](./homework_03_ALF/Screen_ALF_PWG.jpg)
 
