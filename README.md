@@ -4,5 +4,5 @@
 
 
 
-https://github.com/andrewfriedman20/homework_03_ALF/blob/main/Screen_ALF_PWG.jpg
+![screen grab](https://github.com/andrewfriedman20/homework_03_ALF/blob/main/Screen_ALF_PWG.jpg)
 
