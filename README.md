@@ -22,3 +22,9 @@ The github Repo url is (https://github.com/andrewfriedman20/homework_03_ALF)
 
 ![Screenshot of ALF Password Generator](https://github.com/andrewfriedman20/homework_03_ALF/blob/main/Screen_ALF_PWG.jpg)
 
+
+Copyright 2021, Andrew Friedman. All Rights Reserved.
+
+The above copyright notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
